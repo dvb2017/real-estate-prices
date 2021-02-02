@@ -27,7 +27,7 @@ My goal for this project was to build a model that is capable of predicting home
 
 ## Data Visualizations
 
-Below I've included a few of the data visualizations I used throughout this process.  Since the data set included latitude and longitude values, presenting the data points as a sort of map made sense here.  The first graph shows the various home locations plotted and colored according to the 'price rating' that I assigned that zip code.  I marked the price epicenter with a red 'X'.  In the next graph, I have marked the most cost effective zip code according to the metric I used, as well as drawn a line between it and the epicenter.  The final graph is a bar chart showing the predicted savings for each season vs spring (which was calculated to be the most expensive season).
+Below I've included a few of the data visualizations I used throughout this process.  Since the data set included latitude and longitude values, presenting the data points as a sort of map made sense here.  The first graph shows the various home locations plotted at their respective locations and colored according to the 'price rating' that I assigned that zip code.  I marked the price epicenter with a red 'X'.  In the next graph, I have marked the most cost effective zip code according to the metric I used, as well as drawn a line between it and the epicenter.  The final graph is a bar chart showing the predicted savings for each season vs spring (which was calculated to be the most expensive season).
 
 ![all-zips](https://github.com/dvb2017/real-estate-prices/blob/main/charts/zip_map_marked.png)
 
