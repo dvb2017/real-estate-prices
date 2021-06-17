@@ -19,9 +19,9 @@
 
 ## Business Case
 
-My goal for this project was to build a model that is capable of predicting home prices for potential buyers.  More specifically, I was interested in leveraging geographic data in order to maximize cost-effectiveness based on location.  There were three main questions I wanted to address.
+My goal for this project was to build a model that is capable of predicting home prices for potential buyers.  More specifically, I was interested in leveraging geographic data in order to maximize cost-effectiveness based on location.  There were three main questions I wanted to address:
 
-* What is the most cost-effective location in King County?
+* What is the most cost-effective ZIP code in King County?
 * How much can be saved based solely on location?
 * Did any other savings opportunities appear in the data?
 
@@ -39,7 +39,7 @@ Below I've included a few of the data visualizations I used throughout this proc
 
 After analyzing	the data and creating a model, I was able to answer each of the three questions.  
 
-> What is the most cost-effective location in King County?
+> What is the most cost-effective ZIP code in King County?
 
 According to the model, the most cost-effective location is the 98023 ZIP code. This ZIP code had the lowest cost associated with its geographic location, and is predicted to be $141602 less expensive than the baseline model. This is where I would recommend purchasing a home for a buyer trying to minimize costs.
 
